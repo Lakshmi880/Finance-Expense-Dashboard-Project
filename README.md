@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/4229367b-6f40-4471-aac0-1361cfce163f" />
+[Finance_Expense_Dashboard.xlsx](https://github.com/user-attachments/files/24447836/Finance_Expense_Dashboard.xlsx)
 # Finance & Expense Dashboard Project
 
 ## Overview
